@@ -13,7 +13,7 @@ If all the conditions are met, the password is considered strong.
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Run the `password_checker.py` file.
+2. Run the `Password_strength_checker.py` file.
 3. Enter your password when prompted, and the program will evaluate its strength.
 
 ### Example
